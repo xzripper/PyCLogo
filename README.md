@@ -2,7 +2,7 @@
 PyCLogo is a simple but powerful re-make of neofetch.
 Allows you to create similar to neofetch windows.
 
-Console:<br><img src="PyCLogoExample.png">
+Console:<br><img src="PyCLogo\PyCLogoExample.png">
 
 Code:<br>
 ```python
